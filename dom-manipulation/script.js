@@ -21,7 +21,7 @@ const quoteDisplay = document.getElementById('quote-display');
         }
 
 
-        function createAddForm() {
+        function createAddForm () {
             const form = document.createElement('form');
 
             const quoteInput = document.createElement('input');
